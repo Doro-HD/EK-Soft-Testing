@@ -1,0 +1,20 @@
+{
+	"name": "05._e-shop",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"format": "prettier --write .",
+		"test": "vitest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"packageManager": "pnpm@10.15.1",
+	"devDependencies": {
+		"prettier": "^3.6.2",
+		"typescript": "^5.9.2",
+		"vitest": "^3.2.4"
+	}
+}
