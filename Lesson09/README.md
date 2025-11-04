@@ -2,7 +2,6 @@
 
 # Lesson 9 - 4 November
 
-[-> Conference takeaways: testers + Predrag + Boni + pyramid]: #
 [-> Static testing: reviews]: #
 [  -> Show code review video]: #
 [  -> In-class exercise]: #
@@ -49,9 +48,8 @@ Work in groups of 5 or 6.
 ## Class takeaways
 Check out the following slide decks on Itslearning:
 - **Test Management**, with especial attention to risk analysis
-
-[- **Static Testing: Reviews**]: #
-[  - Take a look to this video(https://www.youtube.com/watch?v=JaJ_nNk3f1o) that illustrates a code review, too]: #
+- **Static Testing: Reviews**
+  - Take a look to [this video](https://www.youtube.com/watch?v=JaJ_nNk3f1o) that illustrates a code review, too
 
 ## Homework
 
@@ -59,30 +57,30 @@ Check out the following slide decks on Itslearning:
 
 Work on the [Words TDD assignment](https://github.com/arturomorarioja-ek/SD_Testing_E25/blob/main/Lesson07/01%20Words.md).
 
-[**Requirements Specification Review**]: #
+**Requirements Specification Review**
 
-[Make 5 or 6 student groups.]: #
+Make 5 or 6 student groups.
 
-[This exercise has two parts:]: #
+This exercise has two parts:
 
-[- Part 1]: #
-[  - Each group will write a short requirements specification for one of the following sample applications:]: #
-[    - A currency exchange converter]: #
-[    - A horoscope app]: #
-[    - A measure converter]: #
-[    - A sound meter]: #
-[    - A mobile lantern]: #
-[    - A stopwatch]: #
-[    - A quote-of-the-day app]: #
-[    - A metronome]: #
-[    - An audio recorder]: #
-[    - A notes app]: #
-[  - Each group will upload their specification document as a pdf file to Teams (folder `Static Testing - Review Exercise/Software Requirements Specifications`). The name of the file will be the name of the application. Please add your names to the document]: #
-[- Part 2]: #
-[  - Each document will be assigned to another group for review]: #
-[  - Before reviewing, each group will define roles:]: #
-[    - 1 moderator]: #
-[    - N reviewers]: #
-[    - 1 scribe]: #
-[  - Each group will upload a summary review report (pdf file) to Teams (folder `Static Testing - Review Exercise/Reviews`). Follow the format described in the slides]: #
-[  - The name of the file will be the name of the application under review. Please add your names to the document]: #
+- Part 1
+  - Each group will write a short requirements specification for one of the following sample applications:
+    - A currency exchange converter
+    - A horoscope app
+    - A measure converter
+    - A sound meter
+    - A mobile lantern
+    - A stopwatch
+    - A quote-of-the-day app
+    - A metronome
+    - An audio recorder
+    - A notes app
+  - Each group will upload their specification document as a pdf file to Teams (folder `Static Testing - Review Exercise/Software Requirements Specifications`) **by tomorrow Thursday 5/11**. The name of the file will be the name of the application. Please add your names to the document
+- Part 2
+  - Each document will be assigned to another group for review
+  - Before reviewing, each group will define roles:
+    - 1 moderator
+    - N reviewers
+    - 1 scribe
+  - Each group will upload a summary review report (pdf file) to Teams (folder `Static Testing - Review Exercise/Reviews`). Follow the format described in the slides
+  - The name of the file will be the name of the application under review. Please add your names to the document
