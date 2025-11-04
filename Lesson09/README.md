@@ -2,19 +2,11 @@
 
 # Lesson 9 - 4 November
 
-[-> Check on the Words TDD assignment]: #
-[-> Test management, risk analysis]: #
-[  -> Show the F&I project risk table]: #
-[  -> In-class exercise]: #
 [-> Conference takeaways: testers + Predrag + Boni + pyramid]: #
 [-> Static testing: reviews]: #
 [  -> Show code review video]: #
 [  -> In-class exercise]: #
 [  -> Group exercise as homework]: #
-[-> Words homework]: #
-
-[## Exercise solution]: #
-[- TDD: Words (Python/Pytest(https://github.com/arturomorarioja/py_words) | JavaScript/Jest(https://github.com/arturomorarioja/js_words) | PHP/PHPUnit(https://github.com/arturomorarioja/php_words))]: #
 
 ## In-class exercises
 
