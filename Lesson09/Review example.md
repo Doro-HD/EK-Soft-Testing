@@ -20,6 +20,7 @@ Review the following software requirements specification:
 
 <img width="616" height="821" alt="image" src="https://github.com/user-attachments/assets/2f19e7f3-806e-4144-9eec-711ecf51f8d2" />
 
+
 **Potential improvement**
 
 1. System definition
