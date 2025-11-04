@@ -54,13 +54,18 @@ Work in groups of 5 or 6.
 
 [Once the “Ok” button is clicked, the data display window will show all the information.]: #
 
-[## Class takeaways]: #
-[Check out the following slide decks on Itslearning:]: #
-[- **Test Management**, with especial attention to risk analysis]: #
+## Class takeaways
+Check out the following slide decks on Itslearning:
+- **Test Management**, with especial attention to risk analysis
+
 [- **Static Testing: Reviews**]: #
 [  - Take a look to this video(https://www.youtube.com/watch?v=JaJ_nNk3f1o) that illustrates a code review, too]: #
 
-[## Homework]: #
+## Homework
+
+**TDD**
+
+Work on the [Words TDD assignment](https://github.com/arturomorarioja-ek/SD_Testing_E25/blob/main/Lesson07/01%20Words.md).
 
 [**Requirements Specification Review**]: #
 
