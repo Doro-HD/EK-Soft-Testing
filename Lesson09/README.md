@@ -2,10 +2,7 @@
 
 # Lesson 9 - 4 November
 
-[-> Static testing: reviews]: #
-[  -> Show code review video]: #
-[  -> In-class exercise]: #
-[  -> Group exercise as homework]: #
+[  -> Add the in-class exercise as an example in an MD file]: #
 
 ## In-class exercises
 
