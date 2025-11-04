@@ -75,7 +75,7 @@ This exercise has two parts:
     - A metronome
     - An audio recorder
     - A notes app
-  - Each group will upload their specification document as a pdf file to Teams (folder `Static Testing - Review Exercise/Software Requirements Specifications`) **by Thursday 5/11**. The name of the file will be the name of the application. Please add your names to the document
+  - Each group will upload their specification document as a pdf file to Teams (folder `Static Testing - Review Exercise/Software Requirements Specifications`) **by Thursday 6/11**. The name of the file will be the name of the application. Please add your names to the document
 - Part 2
   - Each document will be assigned to another group for review
   - Before reviewing, each group will define roles:
