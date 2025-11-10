@@ -11,7 +11,7 @@
 [-> SQLite example]: #
 [-> Ask about their knowledge of networking and XSD]: #
 [-> Stress Performance Testing]: #
-[  -> JMeter demo]: #
+[  -> JMeter demo: normal + orange valley (graphs) + custom threads group]: #
 
 [## Exercise solution]: #
 [- TDD: Words (Python/Pytest(https://github.com/arturomorarioja/py_words) | JavaScript/Jest(https://github.com/arturomorarioja/js_words) | PHP/PHPUnit(https://github.com/arturomorarioja/php_words))]: #
