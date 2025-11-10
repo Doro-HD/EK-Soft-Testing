@@ -11,7 +11,13 @@
 [-> SQLite example]: #
 [-> Ask about their knowledge of networking and XSD]: #
 [-> Stress Performance Testing]: #
-[  -> JMeter demo: normal + orange valley (graphs) + custom threads group]: #
+[  -> JMeter demo: normal + orange valley (graphs) + custom threads group (kea-movies-rest-api)]: #
+[    -> HTTP Request: localhost /kea-movie-manager-rest-api/movies]: #
+[    -> Basic Load (jp@gc - Ultimate Thread Group): 100 0 5 100]: #
+[    -> Ramp Up and Down (same): 100 0 100 10]: #
+[    -> Then just show Multi-step Ramp and Random Load]: #
+[    -> Linear Load (bzm - Concurrency Thread Group): 100 1 0 0]: #
+[    -> Show Exponential Growth]: #
 
 [## Exercise solution]: #
 [- TDD: Words (Python/Pytest(https://github.com/arturomorarioja/py_words) | JavaScript/Jest(https://github.com/arturomorarioja/js_words) | PHP/PHPUnit(https://github.com/arturomorarioja/php_words))]: #
