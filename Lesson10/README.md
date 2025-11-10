@@ -7,8 +7,9 @@
 [-> Mohammad guest lecture + questions]: #
 [-> Review exercise]: #
 [-> TDD solution]: #
-[-> SQLite example]: #
 [  -> If they did not do it, give them time in class]: #
+[-> SQLite example]: #
+[-> Ask about their knowledge of networking and XSD]: #
 [-> Stress Performance Testing]: #
 [  -> JMeter demo]: #
 
