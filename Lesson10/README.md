@@ -2,6 +2,8 @@
 
 # Lesson 10 - 11 November
 
+[-> Check out whether I have JMeter installed. Install it otherwise]: #
+
 [-> Mohammad guest lecture + questions]: #
 [-> Review exercise]: #
 [-> TDD solution]: #
