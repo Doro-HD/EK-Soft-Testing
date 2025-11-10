@@ -5,6 +5,7 @@
 [-> Mohammad guest lecture + questions]: #
 [-> Review exercise]: #
 [-> TDD solution]: #
+[-> SQLite example]: #
 [  -> If they did not do it, give them time in class]: #
 [-> Stress Performance Testing]: #
 [  -> JMeter demo]: #
