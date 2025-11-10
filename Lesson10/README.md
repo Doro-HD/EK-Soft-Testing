@@ -12,6 +12,7 @@
 [-> Ask about their knowledge of networking and XSD]: #
 [-> Stress Performance Testing]: #
 [  -> JMeter demo: normal + orange valley (graphs) + custom threads group (kea-movies-rest-api)]: #
+[      -> Just show. It takes forever to run]: #
 [    -> HTTP Request: localhost /kea-movie-manager-rest-api/movies]: #
 [    -> Basic Load (jp@gc - Ultimate Thread Group): 100 0 5 100]: #
 [    -> Ramp Up and Down (same): 100 0 100 10]: #
