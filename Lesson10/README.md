@@ -2,6 +2,7 @@
 
 # Lesson 10 - 11 November
 
+[-> Download SPT slides pptx & pdf]: #
 [-> Check out whether I have JMeter installed. Install it otherwise]: #
 
 [-> Mohammad guest lecture + questions]: #
