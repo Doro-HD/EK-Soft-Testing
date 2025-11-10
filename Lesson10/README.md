@@ -19,7 +19,7 @@
 [- Check out the following slide decks on Itslearning:]: #
 [  - **Stress Performance Testing**]: #
 [  - **Apache JMeter**]: #
+[    - Download and install Apache JMeter(https://jmeter.apache.org/)]: #
 
 [## Homework]: #
-[Practice stress performance testing with Apache JMeter or a similar application (e.g., K6). ]: #
-[]: #
+[Practice stress performance testing with Apache JMeter(https://github.com/arturomorarioja-ek/SD_Testing_E25/blob/main/Lesson10/02%20Stress%20Performance%20Testing.md) or a similar application (e.g., K6(https://k6.io/)).]: #
