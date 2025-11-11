@@ -12,6 +12,12 @@
 [-> SQLite example]: #
 [-> Ask about their knowledge of networking and XSD]: #
 [-> Stress Performance Testing]: #
+
+[Process Explorer → System Information → Memory: System Commit is allocated memory (both RAM and HDD); Physical Memory is only RAM memory]: #
+[	→ Same thing with Working Set vs Private Bytes]: #
+[	→ I/O: Delta stands for “change”]: #
+
+
 [  -> JMeter demo: normal + orange valley (graphs) + custom threads group (kea-movies-rest-api)]: #
 [      -> Just show. It takes forever to run]: #
 [    -> HTTP Request: localhost /kea-movie-manager-rest-api/movies]: #
